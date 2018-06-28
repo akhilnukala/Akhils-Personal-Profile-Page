@@ -1,8 +1,3 @@
 # Akhils Personal Profile Page
-Personal Profile Page
 
-- HTML
-- CSS
-- Mobile First Design using MEDIA QUERIES
-
-This project is a custom web page of my personal profile implemented using HTML, CSS, and Mobile First design using MEDIA QUERIES.
+Customized a web page to create a personal profile page and modified the HTML and CSS for a basic web page by adding graphics, custom text, and CSS.
