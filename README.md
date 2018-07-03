@@ -1,3 +1,3 @@
-# Personal Profile Page
+# Personal Online Profile
 
-Customized a web page to create a personal profile page and modified the HTML and CSS for a basic web page by adding graphics, custom text, and CSS.
+Customized a personal online profile by using HTML, CSS by adding graphics, customizing text and improving the look of a webpage using CSS.
